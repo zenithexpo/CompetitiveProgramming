@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Competitive Programming!
 
-You can use the [editor on GitHub](https://github.com/zenithexpo/CompetitiveProgramming/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello World! This site is a compilation of materials and toturials for Competitive Programming.
 
 ### Markdown
 
