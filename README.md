@@ -2,7 +2,7 @@
 
 Hello World! This site is a compilation of materials and toturials for Competitive Programming.
 
-### Markdown
+### About
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
