@@ -1,4 +1,4 @@
-## Hello World!
+## About Blog!
 
 Hello World! This site is a compilation of materials and toturials for Competitive Programming.
 
