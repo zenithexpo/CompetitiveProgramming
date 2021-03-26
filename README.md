@@ -1,4 +1,4 @@
-## Welcome to Competitive Programming!
+## Competitive Programming Blogs!
 
 Hello World! This site is a compilation of materials and toturials for Competitive Programming.
 
